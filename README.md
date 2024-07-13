@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kulisekluke
-- 👀 I’m interested in HTML and CSS programming
-- 🌱 I’m currently learning javascript and PHP
+- 👀 I’m interested in Python and HTML programming
+- 🌱 I’m currently learning discord.py and javascript
 - 💞️ I’m looking to collaborate on some starter website making
 - 📫 How to reach me  Instagram : kulisekluke / discord : luke14487 / email : kulisekluke@seznam.cz
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: im actually dumb xd more on my site make sure to use HTTP://kulisekluke.chytrak.cz cuz https wont work that is the czech version im working on an english one
+- ⚡ Fun fact: im actually dumb xd more on my site kulisek.000webhostapp.com
 
 <!---
 kulisekluke/kulisekluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
